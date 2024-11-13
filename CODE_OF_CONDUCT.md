@@ -1,21 +1,25 @@
-#### **CODE_OF_CONDUCT.md**
 
-```markdown
+---
+
 # Code of Conduct
 
-## Our Pledge
+## Our Commitment
 
-We, as members of the **Git for Ops** community, pledge to make participation a harassment-free experience for everyone, regardless of gender, gender identity, sexual orientation, disability, age, race, or religion. We are committed to providing a safe and supportive environment for everyone.
+As contributors and maintainers of the **Git for Ops** community, we are committed to fostering an open and welcoming environment. We pledge to make this space inclusive, supportive, and harassment-free, allowing everyone—regardless of gender, gender identity, sexual orientation, disability, age, race, or religion—to feel respected and valued.
 
-## Our Standards
+## Standards of Conduct
 
-- **Respect**: Treat everyone with kindness and empathy.
-- **Inclusivity**: Welcome people of all backgrounds and experiences.
-- **Constructive feedback**: Focus on offering helpful suggestions and comments.
-- **No harassment**: Any behavior that could be construed as harassment or bullying will not be tolerated.
+To uphold a positive and constructive atmosphere, we ask all community members to adhere to the following standards:
 
-## Reporting Issues
+- **Respect**: Always treat others with kindness, understanding, and empathy. Everyone's time and effort are valuable.
+- **Inclusivity**: Embrace diversity, welcoming individuals from all backgrounds, identities, and experiences.
+- **Constructive Feedback**: Offer feedback that is specific, actionable, and aimed at helping others grow. Avoid personal criticism.
+- **Zero Tolerance for Harassment**: Harassment, bullying, or discriminatory behavior of any kind will not be tolerated. This includes inappropriate comments, personal attacks, and unprofessional conduct.
 
-If you experience or witness any inappropriate behavior, please report it to the repository maintainers immediately at [connectwithkala@gmail.com](mailto:connectwithkala@gmail.com).
+## Reporting Concerns
 
-Thank you for helping make this community welcoming for everyone.
+If you experience or witness behavior that violates this Code of Conduct, please reach out to the maintainers at [connectwithkala@gmail.com](mailto:connectwithkala@gmail.com). All reports will be handled with confidentiality and addressed promptly.
+
+---
+
+Thank you for helping us create a welcoming, safe, and inclusive community for everyone.
